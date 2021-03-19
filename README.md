@@ -1,4 +1,4 @@
-官网下载地址
+Official website download address
 ~~~
 https://www.jetbrains.com/idea/download/other.html
 
@@ -9,7 +9,7 @@ https://www.jetbrains.com/go/download/other.html
 https://www.jetbrains.com/pycharm/download/other.html
 ~~~
 
-# 版本
+# version
 ~~~
 
 IntelliJ IDEA 2020.2.3 
@@ -24,7 +24,7 @@ RubyMine 2020.2.3
 WebStorm 2020.2.3
 ~~~
 
-#  安装参数
+#  Installation parameters
 ~~~
 Qr7EpuKzNtnTuEmGcLg/YnYyVEcnvR4iflCYTHc6dwuB8Jbx7e6E43CPRA+KjL2O/D/C+hj/rDFrwCNgGAvLcJd3bcaJ8UTMh8FPxd2EfjDt0eopoRIRQKtw8Ua3hlm2i+GvhYnaJ5/F1XN7H/8uEtYqFQlJc9auMxAL3gdnsmY
 ~~~
